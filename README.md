@@ -1,0 +1,1 @@
+This is a small application written to enable my sweetheart - Phalon to send email when her regular email is not working. This application was written in [*RoR(Ruby On Rails)](http://railstutorial.org/) by Charles Abety.
